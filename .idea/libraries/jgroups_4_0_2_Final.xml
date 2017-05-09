@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="jgroups-4.0.2.Final">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/jgroups-4.0.2.Final.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
